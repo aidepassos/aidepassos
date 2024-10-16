@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @aidepassos
+- 👀 I’m interested in access more information on various topics, mainly programming.
+- 🌱 I’m currently learning the Python programming language, along with PySide6, Django, Selenium, Regexp, testing, TDD, OOP, GoF Design Patterns, algorithms, and programming.
+- 💞️ I’m looking to collaborate on help with anything that is necessary and within my reach, whether it's teaching, learning, creating, etc.
+- 📫 How to reach me on Instagram and X: @uranosluz
+- 😄 Pronouns: I feel more comfortable with neutral pronouns.
+- ⚡ Fun fact: I love RPG games, board games, and card games, anything that involves logic and a good challenge. Despite enjoying technology and nerdy things, I hate math and numbers.
+- I'm passionate about esotericism, study Tarot, and also love drawing. Through this passion, I became a tattoo artist and, in the future, I intend to become a programmer.
