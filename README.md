@@ -11,7 +11,7 @@
 ```typescript
 import Programador from "@aidepassos";
 
-// PORTUGUÊS: Apresentação em código
+// PORTUGUÊS: 
 class Apresentacao extends Programador {
   nome = "Aide Passos";
   area = "Estudante e Entusiasta de Programação";
@@ -19,7 +19,7 @@ class Apresentacao extends Programador {
   objetivo = "Programador no futuro próximo (Atualmente Tatuador)";
 }
 
-// ENGLISH: Presentation in code
+// ENGLISH: 
 class Presentation extends Programador {
   name = "Aide Passos";
   area = "Programming Student and Enthusiast";
