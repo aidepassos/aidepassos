@@ -2,7 +2,7 @@
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=aidepassos&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub Stats de aidepassos">
 </p>
 
-# Oi, eu sou {@aidepassos!} 
+# Oi, eu sou {Aidê Passos}!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AidePassos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Overview Badge">
 
@@ -12,7 +12,7 @@
 import Programador from "@aidepassos";
 
 // PORTUGUÊS: 
-class Apresentacao extends Programador {
+class Pessoa extends Programador {
   nome = "Aide Passos";
   area = "Estudante e Entusiasta de Programação";
   pronomes = "Neutros (Sinta-se à vontade para usar os que preferir)";
@@ -20,7 +20,7 @@ class Apresentacao extends Programador {
 }
 
 // ENGLISH: 
-class Presentation extends Programador {
+class Person extends Programador {
   name = "Aide Passos";
   area = "Programming Student and Enthusiast";
   pronouns = "Neutral (Feel free to use your preferred ones)";
