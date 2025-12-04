@@ -13,16 +13,16 @@ import Programador from "@aidepassos";
 
 // PORTUGUÊS: 
 class Pessoa extends Programador {
-  nome = "Aide Passos";
-  area = "Estudante e Entusiasta de Programação";
+  nome = "Aidê Passos";
+  area = "Estudante de Análise e Desenvolvimento de Sistemas (ADS)";
   pronomes = "Neutros (Sinta-se à vontade para usar os que preferir)";
   objetivo = "Programador no futuro próximo (Atualmente Tatuador)";
 }
 
 // ENGLISH: 
 class Person extends Programador {
-  name = "Aide Passos";
-  area = "Programming Student and Enthusiast";
+  name = "Aidê Passos";
+  area = "Analysis and Systems Development Student";
   pronouns = "Neutral (Feel free to use your preferred ones)";
   goal = "Programmer in the near future (Currently Tattoo Artist)";
 }
