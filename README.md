@@ -37,7 +37,4 @@ class Person extends Programador {
   <a href="https://www.instagram.com/uranosluz/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-@uranosluz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://twitter.com/uranosluz" target="_blank">
-    <img src="https://img.shields.io/badge/X-@uranosluz-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
-  </a>
 </p>
